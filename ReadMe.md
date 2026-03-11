@@ -1,6 +1,6 @@
-# Library System UI Automation
+# Book Library System UI Automation
 
-This project contains end-to-end UI test automation for the Library System application using **Playwright** with **JavaScript**.
+This project contains end-to-end UI test automation for the Book Library System application using **Playwright** with **JavaScript**.
 
 ## Prerequisites
 
